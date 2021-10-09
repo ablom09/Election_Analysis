@@ -1,7 +1,7 @@
 # VBA Challenge on Stock Analysis
 
 **Purpose**
-The purpose of this project was to take existing data and code within VBA and an a “refractor” element to our VBA macro as a means of looping through all data to collect the entire dataset in one command. From this, we will compare our refracto code’s total affect on the run time of our VBA script.
+The purpose of this project was to take existing data and code within VBA and an a “refractor” element/script to our VBA macro as a means of looping through all data to collect the entire dataset in one command. From this, we will compare our refractor code’s total affect on the run time of our VBA script.
 Overview and Method
 A tickerIndex was created and set to 0 before all rows were looped through.
 
